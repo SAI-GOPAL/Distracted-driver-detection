@@ -1,5 +1,6 @@
 # Distracted-driver-detection
-Distracted driver detection using deep learning
+Distracted driver detection using deep learning.
+
 Acccidents are mainly caused due to the driver distraction so in this project we predict the driver behaviour through images of the driver.
 the set of images are classified into 10 categories.
 c0: safe driving
